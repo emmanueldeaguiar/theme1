@@ -5,8 +5,8 @@
 	"sectionTitle" : {
 		"background_color": "#F89004",
 		"font_size":"20px",
-		"font_color":"red",
-		"text_align":"right"		
+		"font_color":"white",
+		"text_align":"center"		
 	}
 	
   },
